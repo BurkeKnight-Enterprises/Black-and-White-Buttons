@@ -1,7 +1,6 @@
 # Black-and-White-Buttons
 Some black buttons with white text for dark themes.
 
-
 Image Pack Name:<br />
 Black & White Buttons<br />
 Designer: BurkeKnight<br />
