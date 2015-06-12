@@ -1,5 +1,11 @@
 # Black-and-White-Buttons
-Some black buttons with white text for dark themes.
+Some black buttons with white text for dark themes.<br />
+
+[![Forks](https://img.shields.io/github/forks/BK-Templates/Black-and-White-Buttons.svg)](https://github.com/BK-Templates/Black-and-White-Buttons/network)
+[![Stars](https://img.shields.io/github/stars/BK-Templates/Black-and-White-Buttons.svg)](hhttps://github.com/BK-Templates/Black-and-White-Buttons/stargazers)
+[![Open Issues](https://img.shields.io/github/issues/BK-Templates/Black-and-White-Buttons.svg)](https://github.com/BK-Templates/Black-and-White-Buttons/issues)
+[![Current Release](https://img.shields.io/github/release/BK-Templates/Black-and-White-Buttons.svg)](https://github.com/BK-Templates/Black-and-White-Buttons/releases)
+[![License](https://img.shields.io/badge/License-Creative%20Commons%20License-red.svg)](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US)
 
 Image Pack Name:<br />
 Black & White Buttons<br />
